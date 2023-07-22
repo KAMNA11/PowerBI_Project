@@ -10,7 +10,7 @@ Analysing Sales People Performance
 # Conclusion
 1. Top 5 Sales Persons with their Total Sales Amount are -
 
-   Karlen McCaffrey - $9,63,956
+a.Karlen McCaffrey - $9,63,956
 
    Roddy Speechley - $9,57,047
 
