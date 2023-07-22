@@ -23,21 +23,29 @@ Analysing Sales People Performance
 2. Top Sales Persons within Teams are-
  
   a. Delish Team - Roddy Speechley - $9,57,047
+  
   b. Juices Team - Madelene Upcott - $8,97,554
+  
   c. Yummies Team - Karlen McCaffrey - $9,63,956
+  
   d. Special Team - Rafaelita Blaksland - $9,03,616
 
 3. Location wise Top Sales Persons with Total Sales Amount
   a. New Zealand - Gunar Cockshoot - $2,09,349
+
   b. India - Karlen McCaffrey - $1,99,423
+  
   c. UK - Karlen McCaffrey - $2,01,348
+  
   d. Canada - Wilone O'Kielt - $1,77,429
-e. Australia -Dottey Strutley - $1,89,182
-f. US - Gigi Bohling - $1,85,962
+  
+  e. Australia -Dottey Strutley - $1,89,182
+  
+  f. US - Gigi Bohling - $1,85,962
 
-4. In Product Categories, Chocolate Bars are in high demand and are sold more in comparison to other Products
+5. In Product Categories, Chocolate Bars are in high demand and are sold more in comparison to other Products
 
-5. Trends and Forecast Analysis
+6. Trends and Forecast Analysis
 The spike in total customers and total sales amount was seen in from November,2021 to January,2022 because of Festival Season. January,2022 was excellent month for Sales as it has highest toal sales amount of $30,70,228 and total customers 82,625. According to Forcast, these numbers might see slight dip in next three months.
  
 
