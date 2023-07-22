@@ -31,6 +31,7 @@ Analysing Sales People Performance
   d. Special Team - Rafaelita Blaksland - $9,03,616
 
 3. Location wise Top Sales Persons with Total Sales Amount
+ 
   a. New Zealand - Gunar Cockshoot - $2,09,349
 
   b. India - Karlen McCaffrey - $1,99,423
@@ -43,9 +44,9 @@ Analysing Sales People Performance
   
   f. US - Gigi Bohling - $1,85,962
 
-5. In Product Categories, Chocolate Bars are in high demand and are sold more in comparison to other Products
+4. In Product Categories, Chocolate Bars are in high demand and are sold more in comparison to other Products
 
-6. Trends and Forecast Analysis
+5. Trends and Forecast Analysis
 The spike in total customers and total sales amount was seen in from November,2021 to January,2022 because of Festival Season. January,2022 was excellent month for Sales as it has highest toal sales amount of $30,70,228 and total customers 82,625. According to Forcast, these numbers might see slight dip in next three months.
  
 
