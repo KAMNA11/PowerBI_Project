@@ -18,8 +18,11 @@ Analysing Sales People Performance
 
 5. Trends and Forecast Analysis
 The spike in total customers and total sales amount was seen in from November,2021 to January,2022 because of Festival Season. January,2022 was excellent month for Sales as it has highest toal sales amount of $30,70,228 and total customers 82,625. According to Forcast, these numbers might see slight dip in next three months.
- 
 
+ 
+![Screenshot (50)](https://github.com/KAMNA11/PowerBI_Project/assets/136696822/55ac4850-d95b-4df2-ad1e-b11566161634)
+
+![Screenshot (54)](https://github.com/KAMNA11/PowerBI_Project/assets/136696822/70061bc7-5afa-4f1f-b38e-28f10b454cb8)
 
 
 
