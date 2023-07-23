@@ -8,7 +8,7 @@ This is an End to End Power BI Project using Sales Dataset of a Fictional Compan
 # Step 2 - Data Analysis
 Analysing Sales People Performance
 # Conclusion
-1. Top 5 Sales Persons with their Total Sales Amount are - a.Karlen McCaffrey - $9,63,956, b.Roddy Speechley - $9,57,047, c.Wilone O'Kielt - $9,44,580 ,d.Gigi Bohling - $9,25,057, e.Dottey Strutley - $9,22,635 
+1. Top 5 Sales Persons with their Total Sales Amount are - a. Karlen McCaffrey - $9,63,956, b. Roddy Speechley - $9,57,047, c. Wilone O'Kielt - $9,44,580 ,d. Gigi Bohling - $9,25,057, e. Dottey Strutley - $9,22,635 
 
 2. Top Sales Persons within Teams are-
  
