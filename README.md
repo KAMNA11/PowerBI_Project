@@ -24,6 +24,7 @@ The spike in total customers and total sales amount was seen in from November,20
 
 ![Screenshot (54)](https://github.com/KAMNA11/PowerBI_Project/assets/136696822/70061bc7-5afa-4f1f-b38e-28f10b454cb8)
 
+![Screenshot (55)](https://github.com/KAMNA11/PowerBI_Project/assets/136696822/c2974fa9-b49c-4e03-868c-848b3df59768)
 
 
  
